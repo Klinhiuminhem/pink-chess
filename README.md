@@ -1,8 +1,6 @@
 # Pixel Chess
-
-![Pixel Chess Preview](./assets/preview_chess.png)
-
 A custom pixel-art chess game built from scratch, featuring original chess pieces designed by me.
+![Pixel Chess Preview](./assets/preview_chess.png)
 
 ## Overview
 
