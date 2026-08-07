@@ -2,7 +2,7 @@
 
 A custom pixel-art chess game built from scratch, featuring original chess pieces designed by me.
 
-Live att: https://linhdangkhanh.github.io/Pixel-chess/
+Live at: https://linhdangkhanh.github.io/Pixel-chess/
 
 ![Pixel Chess Preview](./assets/preview_chess.png)
 
