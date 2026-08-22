@@ -20,7 +20,3 @@ Pixel Chess is a playable chess game that combines programming and visual design
 ## Design
 
 One of the main goals of this project was to make a traditional chess interface feel more charming and visually expressive. Rather than using default assets, I designed every chess piece myself to create a cohesive and original style.
-
-## Author
-
-Created and designed by me.
